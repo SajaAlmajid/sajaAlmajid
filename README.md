@@ -1,16 +1,39 @@
-## Hi there 👋
+#SajaAlmajid#
 
-<!--
-**SajaAlmajid/sajaAlmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saja() {
 
-Here are some ideas to get you started:
+        name = "Saja Almajid";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        role = "AI Student at Imam Abdulrahman Bin Faisal Universty & Future AI Engineer";
+
+        
+
+        programmingSkills = {"Java", "Python", "C++", "SQL", "HTML"};
+
+        
+
+        learningFields = {
+
+            "Artificial Intelligence",
+
+            "Machine Learning",
+
+            "Deep Learning",
+
+            "Computer Vision",
+
+            "Natural Language Processing",
+
+            "Data Science",
+
+            "Data Analysis",
+
+            "Generative AI",
+
+            "Web Development",
+
+            "UI/UX Design"
+
+        };
+
+    }
