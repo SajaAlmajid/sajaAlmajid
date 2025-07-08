@@ -30,10 +30,6 @@ Saja() {
 
             "Generative AI",
 
-            "Web Development",
-
-            "UI/UX Design"
-
         };
 
     }
