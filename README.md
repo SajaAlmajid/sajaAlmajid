@@ -8,7 +8,7 @@ Saja() {
 
         
 
-        programmingSkills = {"Java", "Python", "C++", "SQL", "HTML"};
+        programmingUsing = {"Java","CSS", "Python", "C++", "SQL", "HTML"};
 
         
 
