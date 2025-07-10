@@ -4,7 +4,7 @@ Saja() {
 
         name = "Saja Almajid";
 
-        role = "AI Student at Imam Abdulrahman Bin Faisal Universty & Future AI Engineer";
+        role = "AI Student at Imam Abdulrahman Bin Faisal Universty & Future AI Specialist ";
 
         
 
